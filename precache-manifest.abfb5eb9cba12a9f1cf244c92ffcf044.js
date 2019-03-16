@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/thePlug/static/media/nikeAirForce1.8677bc69.jpg"
   },
   {
-    "revision": "aa35c5373ec74dea6406",
+    "revision": "6bbad63f4ad0321a9840",
     "url": "/thePlug/static/css/main.feed718f.chunk.css"
   },
   {
@@ -60,8 +60,8 @@ self.__precacheManifest = [
     "url": "/thePlug/static/media/nikeAdapt.f0edefa7.jpg"
   },
   {
-    "revision": "aa35c5373ec74dea6406",
-    "url": "/thePlug/static/js/main.aa35c537.chunk.js"
+    "revision": "6bbad63f4ad0321a9840",
+    "url": "/thePlug/static/js/main.6bbad63f.chunk.js"
   },
   {
     "revision": "6ce1d5e1032d486fd7f0cc6c6f708829",
@@ -120,7 +120,7 @@ self.__precacheManifest = [
     "url": "/thePlug/static/media/adidasSuperstar.81eca643.jpg"
   },
   {
-    "revision": "34ec6dc2293e76def8258a2fd3ded274",
+    "revision": "2f13332bdf213e6b7b3b1c81f80082c3",
     "url": "/thePlug/index.html"
   }
 ];
